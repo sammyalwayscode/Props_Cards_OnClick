@@ -1,0 +1,109 @@
+.parentDiv{
+  display: flex;
+  /* flex-wrap: wrap; */
+  justify-content: center;
+  align-items: center;
+}
+
+.controllerDiv{
+  height: 100vh;
+  width: 100vw;
+  background-color: #1f1f47;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cardDivNo1{
+  height: 365px;
+  width: 202px;
+  background-color: #8089e4;
+  /* background-image: linear-gradient(to buttom left, #5796e3, #9f7fe5) ;*/
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  cursor: pointer;
+  /* transition: transform 1000ms ease-out; */
+} 
+
+
+.cardDivNo2{
+  height: 365px;
+  width: 202px;
+  background-color: #3899ee;
+  /* background-image: linear-gradient(to buttom left, #5796e3, #9f7fe5) ;*/
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  cursor: pointer;
+}
+
+.cardDivNo3{
+  height: 365px;
+  width: 202px;
+  background-color: #59ccf0;
+  /* background-image: linear-gradient(to buttom left, #5796e3, #9f7fe5) ;*/
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  cursor: pointer;
+}
+
+.cardDivNo4{
+  height: 365px;
+  width: 202px;
+  background-color: #cf8e86;
+  /* background-image: linear-gradient(to buttom left, #5796e3, #9f7fe5) ;*/
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  cursor: pointer;
+}
+
+.cardDivNo5{
+  height: 365px;
+  width: 202px;
+  background-color: #6b50a0;
+  /* background-image: linear-gradient(to buttom left, #5796e3, #9f7fe5) ;*/
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  cursor: pointer;
+}
+
+
+/* .cardDivNo1 :hover{
+  height: 370px;
+  width: 207px;
+  transform: scale(1.3);
+} */
+
+.images{
+  width: 180px;
+}
+
+.text1{
+  color: white;
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+.text2{
+  color: #b7c8e1;
+  margin-top: -9px;
+}
